@@ -1,16 +1,20 @@
-### Hi there 👋
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-<!--
-**LucianaMiki/LucianaMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm [Luciana Miki](https://github.com/LucianaMiki)！I'm a front-end developer 👨‍💻 who is passionate user experience.**
 
-Here are some ideas to get you started:
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianamikiochiai@gmail.com)](mailto:lucianamikiochiai@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucianaMiki)](https://github.com/LucianaMiki)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianamikiochiai/)](https://www.linkedin.com/in/lucianamikiochiai/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
+
+## 🧐 About
+
+- 📫 How to reach me: lucianamikiochiai@gmail.com
+- 🌱 Languages and Tools: 
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,eclipse,figma,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,postgres,nodejs,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,visualstudio,angular)](https://skillicons.dev)
+  
