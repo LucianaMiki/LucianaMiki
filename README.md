@@ -6,8 +6,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucianaMiki)](https://github.com/LucianaMiki)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianamikiochiai/)](https://www.linkedin.com/in/lucianamikiochiai/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
-
 ## 🧐 About
 
 - 📫 How to reach me: lucianamikiochiai@gmail.com
