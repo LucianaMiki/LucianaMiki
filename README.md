@@ -5,6 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianamikiochiai@gmail.com)](mailto:lucianamikiochiai@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucianaMiki)](https://github.com/LucianaMiki)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianamikiochiai/)](https://www.linkedin.com/in/lucianamikiochiai/)
+[![Netlify Badge](https://lmikiportfolio.netlify.app)]
 
 ## 🧐 About
 
